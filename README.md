@@ -1,5 +1,16 @@
 # Luisi Group Site
 
-This is just a basic static site for the Luisi Group. I will be hopefully just using basic HTML, with some JS functionality along the way.
+A simple set of webpages for Professor Ben Luisi's group at the University of Cambridge
 
-@ModoUnreal 2024
+
+## Setup
+
+The set up process is reasonably simple, just run:
+
+```
+
+git pull https://github.com/AlexHurtado2000/luisi-site
+
+```
+
+Then extract and launch index.html.
