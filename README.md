@@ -3,7 +3,7 @@
 A simple set of webpages for Professor Ben Luisi's group at the University of Cambridge
 
 
-## Setup
+### Setup
 
 The set up process is reasonably simple, just run:
 
