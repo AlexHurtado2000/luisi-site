@@ -9,7 +9,7 @@ The set up process is reasonably simple, just run:
 
 ```
 
-git pull https://github.com/AlexHurtado2000/luisi-site
+git clone https://github.com/AlexHurtado2000/luisi-site
 
 ```
 
